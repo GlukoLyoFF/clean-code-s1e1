@@ -41,7 +41,7 @@ body {
     flex-grow: 1;
 }
 
-.task-wrapper {
+.task__wrapper {
     display: flex;
 }
 
@@ -102,7 +102,7 @@ body {
 }
 
 /* New Task */
-.task-wrapper {
+.task__wrapper {
     margin-top: 20px;
 }
 
