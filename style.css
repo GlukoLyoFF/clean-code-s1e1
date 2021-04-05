@@ -50,8 +50,7 @@ body {
     padding: 0px;
 }
 
-.task__item, 
-.heading {
+.task__item {
     list-style: none;
 }
 
